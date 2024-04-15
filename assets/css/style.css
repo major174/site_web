@@ -334,6 +334,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .education-horizontal-timeline {
     padding: 80px 0;
+    
+}
+.section-heading.text-center {
+    background-color:  #B637FF;
+    padding-top:  50px; /* Remplacez XXXXXX par le code couleur de votre choix */
 }
 
 /*.education-horizontal-timeline*/
